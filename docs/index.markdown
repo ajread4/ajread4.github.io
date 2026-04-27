@@ -13,4 +13,4 @@ All of my personal passion projects can be found in the [Projects](projects.md) 
 
 My graduate school research and publication can be found in the [Publications](publications.md) page. In addition, I was lucky enough to talk at ShmooCon using my research within the George Washington University Graph Computing Lab. My slides and other information can be found in the [Conference Talks](talks.md) page. 
 
-The [Write Ups](writeups.md) page has write ups from both TryHackMe and HacktheBox. 
+The [Write Ups](writeups.md) page has write ups from both TryHackMe and HacktheBox that include both offensive and defensive cyber rooms, machines, sherlocks, or labs. 
