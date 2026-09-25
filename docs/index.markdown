@@ -5,6 +5,8 @@
 layout: home
 ---
 
+![Personal Photo](assets/IMG_1335.jpeg)
+
 Welcome to my personal website! 
 
 Check out my [About](about.markdown) for my background and more information about me. The [Contact](contact.md) contains my contact information. 
